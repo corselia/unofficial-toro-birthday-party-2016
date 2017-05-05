@@ -1,5 +1,10 @@
 # What's this?
 - slides of lightning talks by ME :)
+    - web version
+        - https://corselia.github.io/unofficial-toro-birthday-party-2016/
+    - pdf version
+        - [lighting_talks_slides.pdf](/lighting_talks_slides.pdf)
+
 - at Unofficial Birthday Party 2016
 
 # Who is TORO?
