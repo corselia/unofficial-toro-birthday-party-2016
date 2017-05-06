@@ -12,6 +12,7 @@
 - A cat "TORO", who wants to be human, birth on May 6th.
 - TORO is a character of dokodemoissyo, どこでもいっしょ.
     - [Official Web](http://www.jp.playstation.com/dokodemoissyo/)
+    - [井上トロ - Wikipedia](https://ja.wikipedia.org/wiki/%E4%BA%95%E4%B8%8A%E3%83%88%E3%83%AD)
 
 # Unofficial Birthday Party 2016
 - TORO's birthday party was held on May 7th, 2016 at [BeXide Inc.](http://www.bexide.co.jp/).
